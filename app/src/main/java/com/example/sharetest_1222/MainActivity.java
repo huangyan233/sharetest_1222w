@@ -2,8 +2,7 @@ package com.example.sharetest_1222;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-
+import android.os.Bundle
 public class MainActivity extends AppCompatActivity {
 
     @Override
